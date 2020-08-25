@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Basic Ticker Extension",
-  "description": "Demonstrates basic communication between background.js and popup.js",
+  "name": "Radio JU extension",
+  "description": "Plays live audio stream of Radio JU",
   "version": "1.0",
   "permissions": [ "activeTab", "declarativeContent","storage"],
   "browser_action": {
